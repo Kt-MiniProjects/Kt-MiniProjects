@@ -1,1 +1,1 @@
-### Kt_miniproject용
+### Kt_miniproject용 깃허브
